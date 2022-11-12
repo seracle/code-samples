@@ -1,0 +1,10 @@
+node.js/node_modules
+uploads
+.env
+*.log
+.audit.json
+.DS_Store
+.idea/
+.history/
+.vscode/
+*heapsnapshot
